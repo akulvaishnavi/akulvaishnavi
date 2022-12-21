@@ -5,7 +5,19 @@
 <h1 align="center">Hi 👋, I'm Akul Vaishnavi</h1>
 <h3 align="center">Always Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akulvaishnavi&label=Profile%20views&color=0e75b6&style=flat" alt="akulvaishnavi" /> </p>
+- 🌱 I’m currently learning **Unreal Blueprint, JavaScript, Python, Advanced Java**
+
+- 🤝 I’m looking for help with **JavaScript**
+
+- 👨‍💻 All of my projects are available at [Scholesy](https://github.com/akulvaishnavi?tab=repositories)
+
+- 💬 Ask me about **arch linux ,shell commands, neovim, basic python, java, html, css, vanilla javascript, basic C++**
+
+- 📫 How to reach me **akulvaishnavi1@gmail.com**
+
+- 🔭 I’m currently working here on **why I chose my CS Degree (lmao)**
+
+- ⚡ Fun fact - **Huge Football and Gaming fan - love my FIFA and COD grinds :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
