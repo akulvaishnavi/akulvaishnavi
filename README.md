@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [Scholesy](https://github.com/akulvaishnavi?tab=repositories)
 
-- 💬 Ask me about **arch linux ,shell commands, neovim, basic python, java, html, css, vanilla javascript, basic C++**
-
 - 📫 How to reach me **akulvaishnavi1@gmail.com**
 
 - 🔭 I’m currently working here on **why I chose my CS Degree (lmao)**
