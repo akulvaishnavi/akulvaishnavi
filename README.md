@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://fivebyfiveglobal.com/wp-content/uploads/2019/10/DetailPage_Header_1920x720_COD_MW.jpg" />
+  <img src="" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Akul Vaishnavi</h1>
