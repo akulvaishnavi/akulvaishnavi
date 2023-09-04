@@ -22,7 +22,7 @@
 <a href="https://instagram.com/akulvaishnavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akulvaishnavi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akulvaishnavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akulvaishnavi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akulvaishnavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akulvaishnavi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/akulvaishnavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="akulvaishnavi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akul-vaishnavi-876807232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="akulvaishnavi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
