@@ -1,7 +1,3 @@
-<p align="center">
-  <img src=""/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Akul Vaishnavi</h1>
 <h3 align="center">Always Learning</h3>
 
